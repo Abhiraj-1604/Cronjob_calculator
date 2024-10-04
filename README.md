@@ -12,6 +12,7 @@ Human-readable output: The program prints out the schedule in a way that's easy 
 
 # To Install python-crontab Library:
 Run the following command to install the library, which helps with parsing and validating cron expressions:
-'''
+```
 pip install python-crontab
-                          '''
+                          
+```
